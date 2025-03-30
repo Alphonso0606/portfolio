@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+/* Styles généraux */
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #1e1e1e, #333);
+  color: white;
+}
